@@ -1,0 +1,6 @@
+# Add your project dependencies below
+numpy
+pandas
+scikit-learn
+matplotlib
+# Add more as needed
