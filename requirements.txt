@@ -1,0 +1,6 @@
+cryptography>=41.0.0
+click>=8.0.0
+
+# Development (uncomment as needed)
+# pytest
+# mypy
